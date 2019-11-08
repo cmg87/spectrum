@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Jayson",
+    "transaction": 123.33,
+    "date": "2019-05-11"
+  },
+  {
+    "name": "Jane",
+    "transaction": 30.64,
+    "date": "2019-06-12"
+  },
+  {
+    "name": "Jayson",
+    "transaction": 200.5,
+    "date": "2019-05-14"
+  },
+  {
+    "name": "Tom",
+    "transaction": 65.78,
+    "date": "2019-05-10"
+  },
+  {
+    "name": "Tom",
+    "transaction": 50.5,
+    "date": "2019-05-22"
+  },
+  {
+    "name": "Jayson",
+    "transaction": 90.75,
+    "date": "2019-06-02"
+  },
+  {
+    "name": "Jane",
+    "transaction": 60.99,
+    "date": "2019-06-24"
+  },
+  {
+    "name": "Tom",
+    "transaction": 122.4,
+    "date": "2019-06-11"
+  },
+  {
+    "name": "Jane",
+    "transaction": 100,
+    "date": "2019-07-10"
+  },
+  {
+    "name": "Jane",
+    "transaction": 39.88,
+    "date": "2019-07-15"
+  },
+  {
+    "name": "Jayson",
+    "transaction": 26.37,
+    "date": "2019-07-04"
+  },
+  {
+    "name": "Jayson",
+    "transaction": 100,
+    "date": "2019-07-29"
+  },
+  {
+    "name": "Tom",
+    "transaction": 94.22,
+    "date": "2019-07-13"
+  }
+]
